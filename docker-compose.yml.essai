@@ -1,4 +1,3 @@
-    
 # Run docker-compose build
 # Run docker-compose up
 # Live long and prosper
@@ -76,7 +75,7 @@ services:
         - "81:80"
         - "443:443"
       
-    node:
+ node:
         build: .docker/node
         container_name: angular_node
         ports:
