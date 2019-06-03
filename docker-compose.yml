@@ -88,6 +88,8 @@ services:
             - /bin/sh
             - -c
             - |
-                cd /home/node/app/frontend && npm start
+                 cd /home/node/app/frontend && yarn install && npm start
         expose:
             - "4200"
+
+
