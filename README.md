@@ -1,5 +1,5 @@
 
-# Starter setup for Symfony 4 and Angular 6 Dockerized Project
+# Starter setup for Symfony 4 and Angular 7 Dockerized Project
 Docker compose for symfony + mysql + angular project
 
 ## Docker containers:
